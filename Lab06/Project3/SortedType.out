@@ -1,0 +1,77 @@
+1
+Length is 0
+5 is inserted
+7 is inserted
+6 is inserted
+9 is inserted
+6 is inserted
+5 is inserted
+6 is inserted
+6 is inserted
+List Items: 
+5
+5
+6
+6
+6
+6
+7
+9
+
+6 is deleted
+List Items: 
+5
+5
+7
+9
+
+6 not in list.
+5 is inserted
+5 is inserted
+5 is inserted
+5 is inserted
+5 is inserted
+5 is inserted
+4 is inserted
+List is not full.
+List Items: 
+1
+2
+3
+4
+5
+5
+5
+5
+5
+5
+5
+5
+7
+9
+2147483647
+
+List Items: 
+4
+5
+5
+5
+5
+5
+5
+5
+5
+7
+9
+
+5 is deleted
+List Items: 
+4
+7
+9
+
+7 is deleted
+List Items: 
+4
+9
+

@@ -1,0 +1,54 @@
+1
+Queue is empty.
+5 is enqueued.
+2 is enqueued.
+10 is enqueued.
+1243 is enqueued.
+2 is minDequeued. 
+5 is minDequeued. 
+10 is minDequeued. 
+1243 is minDequeued. 
+EmtpyQueue exception thrown.
+Queue is not full.
+Queue is empty.
+28457 is enqueued.
+50034956 is enqueued.
+70645 is enqueued.
+495 is enqueued.
+0 is enqueued.
+Queue is full.
+Queue is not empty.
+0 is minDequeued. 
+495 is minDequeued. 
+28457 is minDequeued. 
+70645 is minDequeued. 
+50034956 is minDequeued. 
+EmtpyQueue exception thrown.
+EmtpyQueue exception thrown.
+9 is enqueued.
+9 is minDequeued. 
+11 is enqueued.
+95 is enqueued.
+11 is minDequeued. 
+95 is minDequeued. 
+Queue is empty.
+8162 is enqueued.
+Queue is not empty.
+8162 is minDequeued. 
+Queue is empty.
+487 is enqueued.
+44 is enqueued.
+105 is enqueued.
+8673 is enqueued.
+Queue is not full.
+1205 is enqueued.
+Queue is full.
+FullQueue exception thrown.
+44 is minDequeued. 
+2850123 is enqueued.
+105 is minDequeued. 
+487 is minDequeued. 
+1205 is minDequeued. 
+8673 is minDequeued. 
+2850123 is minDequeued. 
+EmtpyQueue exception thrown.

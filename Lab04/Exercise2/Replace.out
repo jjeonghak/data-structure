@@ -1,0 +1,43 @@
+1
+Stack is empty.
+Top element is 9
+Top element is 6
+Top element is 7
+Top element is 5
+Top element is 4
+Top element is 3
+Top element is 3
+Top element is 2
+Stack replaced from 3 to 2147483647
+Top element is 2147483647
+Stack is empty.
+Stack is not empty.
+Stack is empty.
+Stack is not full.
+Stack is not full.
+EmtpyStack exception thrown.
+EmtpyStack exception thrown.
+EmtpyStack exception thrown.
+EmtpyStack exception thrown.
+EmtpyStack exception thrown.
+EmtpyStack exception thrown.
+EmtpyStack exception thrown.
+EmtpyStack exception thrown.
+EmtpyStack exception thrown.
+Stack is empty.
+Top element is 1030
+Top element is 2094
+Stack is not full.
+Stack is not empty.
+Stack replaced from 2147483647 to -2147483648
+Top element is 2094
+Top element is -2147483648
+Top element is 44
+Top element is 203
+Top element is 1
+Top element is 100
+EmtpyStack exception thrown.
+EmtpyStack exception thrown.
+EmtpyStack exception thrown.
+EmtpyStack exception thrown.
+Stack is empty.
