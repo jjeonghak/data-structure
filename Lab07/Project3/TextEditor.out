@@ -1,0 +1,14 @@
+1
+TextEditor is empty.
+Next item is ""
+TextEditor is not empty.
+Length is 2
+Reset TextEditor.
+Next item is "text"
+Next item is "abcdefg"
+Go to top: text
+Next item is "abcdefg"
+Go to bottom: abcdefg
+Next item is ""
+Make empty TextEditor
+Next item is ""
